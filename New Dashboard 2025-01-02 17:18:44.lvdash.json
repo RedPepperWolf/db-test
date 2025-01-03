@@ -18,6 +18,17 @@
         "width" : 6,
         "height" : 2
       }
+    }, {
+      "widget" : {
+        "name" : "55727d38",
+        "textbox_spec" : "## hello ##\n"
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 3,
+        "width" : 6,
+        "height" : 2
+      }
     } ]
   } ]
 }
