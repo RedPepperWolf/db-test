@@ -41,7 +41,7 @@
           "encodings" : {
             "fields" : [ {
               "fieldName" : "dropoff_zip",
-              "displayName" : "dropoff_zip",
+              "displayName" : "Zip",
               "queryName" : "dashboards/01efca1c5912172aa972039b37450674/datasets/01efca1cd13c1ea2a51e502708c99cc3_dropoff_zip"
             } ]
           },
