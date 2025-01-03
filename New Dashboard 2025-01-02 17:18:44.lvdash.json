@@ -29,6 +29,17 @@
         "width" : 6,
         "height" : 2
       }
+    }, {
+      "widget" : {
+        "name" : "c56cb7b6",
+        "textbox_spec" : "## work ##\n"
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 5,
+        "width" : 6,
+        "height" : 2
+      }
     } ]
   } ]
 }
