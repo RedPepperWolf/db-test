@@ -1,0 +1,18 @@
+{
+  "pages" : [ {
+    "name" : "e5331ef0",
+    "displayName" : "Untitled page",
+    "layout" : [ {
+      "widget" : {
+        "name" : "e41a4f0e",
+        "textbox_spec" : "## hello ##"
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 6,
+        "height" : 2
+      }
+    } ]
+  } ]
+}
