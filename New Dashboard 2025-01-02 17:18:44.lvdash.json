@@ -29,6 +29,56 @@
         "width" : 6,
         "height" : 2
       }
+    }, {
+      "widget" : {
+        "name" : "c56cb7b6",
+        "textbox_spec" : "## work ##\n"
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 5,
+        "width" : 6,
+        "height" : 2
+      }
+    }, {
+      "widget" : {
+        "name" : "c0c44624",
+        "spec" : {
+          "version" : 2,
+          "widgetType" : "filter-single-select",
+          "encodings" : {
+            "fields" : [ ]
+          },
+          "frame" : {
+            "showTitle" : true,
+            "title" : ""
+          }
+        }
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 6,
+        "width" : 2,
+        "height" : 1
+      }
+    }, {
+      "widget" : {
+        "name" : "1e0e3e4b",
+        "spec" : {
+          "version" : 2,
+          "widgetType" : "filter-single-select",
+          "encodings" : { },
+          "frame" : {
+            "showTitle" : true
+          }
+        }
+      },
+      "position" : {
+        "x" : 1,
+        "y" : 8,
+        "width" : 2,
+        "height" : 1
+      }
     } ]
   } ]
 }
